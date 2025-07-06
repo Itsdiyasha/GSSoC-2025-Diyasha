@@ -64,7 +64,7 @@ Although I’m starting from scratch, I’m determined to:
 ## 📬 Let’s Connect!
 
 <p>
-  <a href="https://www.linkedin.com/in/diyasha-ojha">
+  <a href="https://www.linkedin.com/in/diyashaojha">
     <img src="https://img.shields.io/badge/LinkedIn-Diyasha%20Ojha-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:diyasha02ojha@gmail.com">
